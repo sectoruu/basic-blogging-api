@@ -33,12 +33,14 @@ A simple **RESTful API** for managing blog posts.
 ---
 
 ## Post Structure    
-`{   
+```
+{   
   "title": string,  
   "content": string,         
   "category": string,      
   "tags": array with strings,   
-}`  
+}
+```
 
 ---
 
